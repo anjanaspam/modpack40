@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element label="Koti Table" max_length="40" name="koti_table" type="collection">
-        <element label="Malar" max_length="80" name="malar" type="user_image"/>
+        <element label="Ken" max_length="80" name="ken" type="user_image"/>
     </element>
 </database>
