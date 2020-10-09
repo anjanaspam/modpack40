@@ -32,7 +32,7 @@
         <foreign_database/>
         <function_definition/>
         <function_field>false</function_field>
-        <internal_type display_value="Integer">integer</internal_type>
+        <internal_type display_value="">user_image</internal_type>
         <mandatory>false</mandatory>
         <max_length>90</max_length>
         <name>koti_table</name>
@@ -61,7 +61,7 @@
         <sys_scope display_value="koti_global2">be4a57b85377101071a3ddeeff7b12a0</sys_scope>
         <sys_update_name>sys_dictionary_koti_table_isai</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-10-09 18:09:01</sys_updated_on>
+        <sys_updated_on>2020-10-09 18:13:03</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
@@ -75,30 +75,30 @@
     </sys_dictionary>
     <sys_claim action="INSERT_OR_UPDATE">
         <claim_owner_scope display_value="koti_global2">be4a57b85377101071a3ddeeff7b12a0</claim_owner_scope>
-        <claim_timestamp>1750e8d49c20000001</claim_timestamp>
+        <claim_timestamp>1750e90cf850000001</claim_timestamp>
         <metadata_update_name>sys_dictionary_koti_table_isai</metadata_update_name>
         <previous_claim_app_version>1.0.0</previous_claim_app_version>
         <previous_claim_name>koti_global2</previous_claim_name>
         <previous_claim_scope>be4a57b85377101071a3ddeeff7b12a0</previous_claim_scope>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2020-10-09 18:09:01</sys_created_on>
-        <sys_id>826ba37453b7101071a3ddeeff7b1254</sys_id>
+        <sys_created_on>2020-10-09 18:12:52</sys_created_on>
+        <sys_id>d24cab7453b7101071a3ddeeff7b12b7</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-10-09 18:09:01</sys_updated_on>
+        <sys_updated_on>2020-10-09 18:12:52</sys_updated_on>
     </sys_claim>
     <sys_claim action="INSERT_OR_UPDATE">
         <claim_owner_scope display_value="koti_global2">be4a57b85377101071a3ddeeff7b12a0</claim_owner_scope>
-        <claim_timestamp>1750e8d49bf0000001</claim_timestamp>
+        <claim_timestamp>1750e90cf780000001</claim_timestamp>
         <metadata_update_name>sys_dictionary_koti_table_isai</metadata_update_name>
         <previous_claim_app_version>1.0.0</previous_claim_app_version>
         <previous_claim_name>koti</previous_claim_name>
         <previous_claim_scope>a858db385377101071a3ddeeff7b12be</previous_claim_scope>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2020-10-09 18:09:01</sys_created_on>
-        <sys_id>466ba37453b7101071a3ddeeff7b1254</sys_id>
+        <sys_created_on>2020-10-09 18:12:52</sys_created_on>
+        <sys_id>964cab7453b7101071a3ddeeff7b12b7</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-10-09 18:09:01</sys_updated_on>
+        <sys_updated_on>2020-10-09 18:12:52</sys_updated_on>
     </sys_claim>
 </record_update>
